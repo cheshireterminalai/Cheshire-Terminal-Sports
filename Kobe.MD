@@ -1,0 +1,3 @@
+ Introdocuing raw data exploration through feature engineering and ends with a Random Forest model to predict whether Kobe’s shot goes in or not. The process is wrapped as a convenient module/function you can integrate anywhere you’d like, and it has been adapted to be your official “Cheshire Terminal Kobe Bryant Shooting Prediction Model for Solana Sports Agent.
+
+Through our  Kaggle Kobe Bryant Shots Dataset (data.csv) in the specified folder, install necessary libraries, and then run this script end-to-end. This script demonstrates data cleaning, EDA (commented out in certain places if you prefer a pure script run), feature engineering, and modeling. Enjoy!
