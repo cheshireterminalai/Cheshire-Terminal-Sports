@@ -8,7 +8,7 @@ Official Cheshire Terminal Kobe Bryant Shooting Prediction Model for Solana Spor
 This script loads the Kaggle dataset of Kobe Bryant's shots, explores relevant features,
 performs feature engineering, and trains a Random Forest model to predict shot outcomes.
 
-Author:  [Your Name]
+Author:  [8 Bit]
 Created: 2024-12-22
 """
 
